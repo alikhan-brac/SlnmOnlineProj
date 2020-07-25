@@ -21,6 +21,7 @@ public class FlightFindTest {
 	@AfterClass
 	public void FltFnTest() {
 		driver.findElement(By.xpath(XpathUtil.LoginModule.one_way_sel)).click();
+		//System.out.println("checking git bash status");
 	}
 	
 
