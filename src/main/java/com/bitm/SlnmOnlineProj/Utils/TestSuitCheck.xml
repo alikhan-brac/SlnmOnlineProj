@@ -1,0 +1,11 @@
+
+<suite name = "CheckNewTours">
+
+   <test name = "PoisitiveCheck">
+      <classes>
+      	<class name = "com.bitm.SlnmOnlineProj.Test.LoginTest" />
+      	<class name = "com.bitm.SlnmOnlineProj.Test.FlightFindTest" />
+      </classes>
+   </test>
+
+</suite>  

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CheckNewTours]">
+  <test thread-count="5" name="PoisitiveCheck(failed)">
+    <classes>
+      <class name="com.bitm.SlnmOnlineProj.Test.LoginTest">
+        <methods>
+          <include name="CheckPgTitle"/>
+          <include name="logintest"/>
+        </methods>
+      </class> <!-- com.bitm.SlnmOnlineProj.Test.LoginTest -->
+    </classes>
+  </test> <!-- PoisitiveCheck(failed) -->
+</suite> <!-- Failed suite [CheckNewTours] -->
